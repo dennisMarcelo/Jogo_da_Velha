@@ -4,10 +4,10 @@
 <p>Este é um jogo da velha simples onde coloco em prática meus conhecimentos nas principais tecnologias web do mercado.</p>
 
 <p align="center">
-    <a href="#Tecnologias">Tecnologias</a>•
-    <a href="#computer-Demonstração">Demonstração</a>•
-    <a href="#wrench-Utilização">Utilização</a>•
-    <a href="#man-Sobre-Mim">Sobre-Mim</a>•
+    <a href="#Tecnologias">Tecnologias </a> • 
+    <a href="#computer-Demonstração"> Demonstração </a> • 
+    <a href="#wrench-Utilização"> Utilização </a> • 
+    <a href="#man-Sobre-Mim"> Sobre-Mim </a> • 
     <a href="#contato">Contato</a>
 </p>
 
