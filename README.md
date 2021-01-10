@@ -20,15 +20,15 @@
 
 
 ### :computer: Demonstração:
-<p align="center">
+<p>
     <img src="https://i.imgur.com/DTIT22L.png" height="462" width="453">
     <img src="https://i.imgur.com/cdtbC2D.png" height="462" width="453">
     <img src="https://i.imgur.com/dQ2rcLV.png" height="462" width="453">
 </p>
 
 ### :wrench: Utilização:
-- 1.1) No diretório de sua preferência de um `git clone https://github.com/`
-- 1.2) Rode o servidor de sua preferência onde o arquivo index.html esta. **Nota:** Nos meus testes utilizei o `http-server`, baxado através do `npm`.
+- 1.1) No diretório de sua preferência de um `git clone git@github.com:dennisMarcelo/Jogo_da_Velha.git`
+- 1.2) Rode o servidor de sua preferência onde o arquivo index.html esta. **Nota:** Nos meus testes utilizei o `http-server`, baixando através do `npm`.
 
 ### :man: Sobre Mim:
 <p>Meu nome é Dennis Marcelo, sou formado em análise e desenvolvimento de sistemas. I :heart: tecnologia desde de que me entendo por gente e estou sempre em busca de aprender algo novo.</p>
