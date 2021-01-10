@@ -20,7 +20,7 @@
 
 
 ### :computer: Demonstração:
-<p>
+<p align="center">
     <img src="https://i.imgur.com/DTIT22L.png" height="462" width="453">
     <img src="https://i.imgur.com/cdtbC2D.png" height="462" width="453">
     <img src="https://i.imgur.com/dQ2rcLV.png" height="462" width="453">
