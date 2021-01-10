@@ -1,0 +1,72 @@
+html{
+    background-color:#6D1BAC;
+    
+}
+/*------------referente a homeScreen------------------*/
+#homeScreen{
+    background-color: #abc941;
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+
+#btnStart{
+    transition-duration: 0.7s;
+    background-color:#448D76;
+    border:3px solid #448D76;
+}
+
+#btnStart:hover{
+    background-color: #D4DB9E;
+}
+
+/*-----------referente a gameScreen------------------*/
+#gameScreen{
+    background-color: #ABC941;  
+    
+}
+
+#gameScreen table{
+    border-collapse: collapse;   
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+tr{
+    border-bottom: 20px solid #0D2630;
+    
+}
+
+td {
+    border-right: 20px solid #0D2630;
+    width: 185px;
+    max-width:185px;
+    min-width: 185px;
+    height: 185px;
+    max-height:185px;
+    min-height: 185px;
+
+    
+}
+
+tr:nth-child(3){
+    border: none;
+}
+
+td:nth-child(3){
+    border: none;
+}
+
+/*---------referente alertWinner*/
+#alertWinner{
+    background-color: #abc941;
+    box-shadow: 0 200px 100px 0 rgba(0, 0, 0, 0.2), 0 150px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#refresh{
+    transition-duration: 0.7s;
+    background-color:#448D76;
+    border:3px solid #448D76;
+    
+}
+
+#refresh:hover{
+    background-color: #D4DB9E;
+}

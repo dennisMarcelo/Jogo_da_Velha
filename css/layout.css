@@ -1,0 +1,44 @@
+body{
+    width: 100%;
+}
+#homeScreen, #gameScreen{
+    position: relative;
+    margin: auto;
+}
+#homeScreen{
+    width: 700px;
+    height: 370px;
+    padding: 5px;
+}
+
+#btnStart{
+    height: 100px;
+    width: 200px;
+    margin-bottom:20px;
+    border-width:3px;
+    border-radius: 9px; 
+}
+
+#gameScreen{
+    width: 600px;
+    
+    display:none;
+}
+
+#alertWinner{
+    position: fixed;
+    top:140px;
+    padding: 1px;
+    width: 650px;
+    height: 180px;
+    border-radius: 10px;
+    display:none;
+}
+
+#refresh{
+    height: 50px;
+    width: 130px;
+    margin-bottom:20px;
+    border-radius: 9px;
+    
+}

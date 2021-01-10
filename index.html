@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>A Velha</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/all.css">
+    <link rel="stylesheet" type="text/css" href="css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/layout.css">
+  </head>
+  <!--parte html-->
+  <body>
+    <div id="homeScreen">
+      <h1>Jogo Da Velha</h1>
+      <p>Escolha <strong>X</strong> ou <strong> O</strong> e então aperte play para começar o jogo.</p>
+      <button id=btnStart>Play</button>
+    </div>
+
+    
+    <div id="gameScreen">  
+      <table>
+        <tr>
+          <td id='[0][0]'></td>
+          <td id='[0][1]'></td>
+          <td id='[0][2]'></td>          
+        </tr>
+        <tr>
+          <td id='[1][0]'></td >
+            <td id='[1][1]'></td>
+            <td id='[1][2]'></td>
+          </tr>
+          <tr>
+            <td id='[2][0]'></td>
+            <td id='[2][1]'></td>
+            <td id='[2][2]'></td>
+          </tr>
+        </table>
+      </div>
+
+      <div id="alertWinner">
+        <h1> </h1>
+        <button id="refresh">reniciar</button>
+      </div>
+    
+    </body>
+    <script type="module" src="/js/home.js"></script>
+    <script src="/js/beluga.js"></script>
+    <script src="/js/gameScreen.js"></script>
+    <script src="/js/layoutAlertWin.js"></script>
+  </html>
